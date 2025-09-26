@@ -1,4 +1,4 @@
-#CosmoSphere 🌌
+# CosmoSphere 🌌
 
 An interactive **3D Solar System simulation** built using **JavaScript**, where you can explore planets, their orbits, and the mesmerizing dynamics of space — right in your browser!  
 
@@ -24,3 +24,4 @@ An interactive **3D Solar System simulation** built using **JavaScript**, where 
 1. Clone the repo  
    ```bash
    git clone https://github.com/Jaikumarvanjare/CosmoSphere.git
+
